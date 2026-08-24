@@ -157,7 +157,7 @@ source/test_output/1AO7/
 └── tmp/                # temporary files
 ```
 
-The files under `03-fp_datafile/` are the final outputs of this pipeline and are used as the surface-feature inputs to the MaSIF component of the ITaylor model.
+**The files under `03-fp_datafile/` are the final outputs of this pipeline and are used as the surface-feature inputs to the MaSIF component of the ITaylor model.**
 
 ## Citation
 
