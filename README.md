@@ -37,7 +37,7 @@ Clone this GitHub repository, then configure the Conda environment and external 
 
 The prepared environment is named `immuno_masif` and is distributed on Zenodo as `ITaylor-pHLA-TCR_MaSIF_pipeline_env.tar.gz`.
 
-> **Zenodo record:** add the DOI or record URL here after deposition.
+> **Zenodo record:** [10.5281/zenodo.22074539](https://doi.org/10.5281/zenodo.22074539) 
 
 Restore and activate it with:
 
