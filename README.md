@@ -1,4 +1,4 @@
-# ITaylor-pHLA-TCR_MaSIF_pipeline: pHLA/TCR surface fingerprint preparation
+# ITaylor pHLA TCR MaSIF pipeline: pHLA/TCR surface fingerprint preparation
 
 This repository provides the surface-feature preprocessing pipeline for the surface expert in [ITaylor](https://github.com/ZGQVictory/ITaylor). 
 
