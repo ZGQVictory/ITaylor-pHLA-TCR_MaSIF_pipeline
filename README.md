@@ -8,6 +8,8 @@ The surface-processing code is adapted from [MaSIF](https://github.com/LPDI-EPFL
 
 This GitHub repository contains the source code and the `1AO7` reference example. The packed Conda environment and the external `software/` stack are not stored in this repository.
 
+Special thanks to Shang Chun for sorting through the ITaylor pHLA-TCR MaSIF pipeline code. Together, we have successfully refined this GitHub repository.
+
 ## Workflow
 
 For each pHLA or TCR structure, ITaylor-pHLA-TCR_MaSIF_pipeline performs three steps:
